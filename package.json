@@ -1,0 +1,15 @@
+{
+    "name": "com.chaos-entertainment.tools",
+    "displayName": "Tool bases",
+    "version": "0.1.0",
+    "unity": "2020.3",
+    "description": "A basic boiler plate base for any tools",
+    "keywords": [
+      "tool",
+      "base"
+    ],
+    "author":{
+        "name": "Thomas Finet"
+    },
+    "documentationUrl": "https://github.com/Midonk/Tool-Bases.git"
+}
